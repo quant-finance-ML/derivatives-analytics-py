@@ -3,7 +3,7 @@
 <img src='repo_logo.png'>
 <br>
 
-Derivatives Analytics with Python 🐍
+# Derivatives Analytics with Python 🐍
 
 </div>
 
